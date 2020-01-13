@@ -1,2 +1,3 @@
-# INTRO-TO-LINUX
-Me Learning Linux
+# INTRO TO LINUX
+--------------------------------
+### It's all about me using Linux
